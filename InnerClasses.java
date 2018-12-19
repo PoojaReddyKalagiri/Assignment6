@@ -17,6 +17,7 @@ class OuterClass2 extends OuterClass1
 {
     class InnerClass2 extends InnerClass1
     {
+      InnerCLass2(){super();}
     }
 }
 public class InnerClasses
